@@ -1,0 +1,53 @@
+/* Centering and Layout */
+.text-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    text-align: center;
+  }
+  
+  /* Heading Styling */
+  .text-center h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  /* Paragraph Styling */
+  .text-center p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  /* Add subtle animation for text fade-in */
+  .text-center h2,
+  .text-center p {
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  /* Keyframes for fade-in animation */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .text-center h2 {
+      font-size: 2rem;
+    }
+  
+    .text-center p {
+      font-size: 1rem;
+    }
+  }
+  

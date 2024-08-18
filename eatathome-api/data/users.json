@@ -1,0 +1,14 @@
+[{
+  "email": "kamran@bcu.uk",
+  "password": "$2a$12$1AfxTpWbQCxodle0pcVVzuyb1KnnA8gbM1PnAvjGvKvSwgl1VCd7q",
+  "name": "Kamran Mustafa",
+  "postCode": "B62 6DT",
+  "address": "14 Avenue, Royal Street, B58JU"
+},
+{
+  "email": "mustafa@bcu.uk",
+  "password": "$2a$12$4Q5zaOgz802/SVGdKLV/YOS2nSyY2O2nj08Urck7TgosUOCtkTLzG",
+  "name": "Kamran Mustafa",
+  "postCode": "B5 5JU",
+  "address": "Birmingham City University"
+}]

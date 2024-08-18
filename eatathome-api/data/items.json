@@ -1,0 +1,399 @@
+[
+{
+  "name": "Double Cheese Margherita",
+  "price": 7.99,
+  "category": "Pizza",
+  "photo": "Double Cheese Margherita.jpg"
+},
+{
+  "name": "Mexican Green Wave",
+  "price": 4.49,
+  "category": "Pizza",
+  "photo": "Mexican Green Wave.jpg"
+},
+{
+  "name": "Seafood Pizza",
+  "price": 14.74,
+  "category": "Pizza",
+  "photo": "Seafood Pizza.jpg"
+},
+{
+  "name": "Thin Cheese Pizza",
+  "price": 13.44,
+  "category": "Pizza",
+  "photo": "Thin Cheese Pizza.jpg"
+},
+{
+  "name": "Pizza With Mushroom",
+  "price": 10.44,
+  "category": "Pizza",
+  "photo": "Pizza With Mushroom.jpg"
+},
+{
+  "name": "Vegetarian Pizza",
+  "price": 6.44,
+  "category": "Pizza",
+  "photo": "Vegetarian Pizza.jpg"
+},
+{
+  "name": "Thin Crust Pizza",
+  "price": 9.44,
+  "category": "Pizza",
+  "photo": "Thin Crust Pizza.jpg"
+},
+{
+  "name": "Plain Nutella Pizza",
+  "price": 3.44,
+  "category": "Pizza",
+  "photo": "plain Nutella2_big.jpg"
+},
+{
+  "name": "Margarita Pizza",
+  "price": 3.75,
+  "category": "Pizza",
+  "photo": "Margarita2_big.jpg"
+},
+{
+  "name": "Chicken Alfredo Pizza",
+  "price": 5.99,
+  "category": "Pizza",
+  "photo": "Chicken Alfredo2_big.jpg"
+},
+{
+  "name": "Pepperoni Lovers Pizza",
+  "price": 4.74,
+  "category": "Pizza",
+  "photo": "Pepperoni lovers2_big.jpg"
+},
+{
+    "name": "Philly Steak Sandwich",
+  "price": 2.54,
+  "category": "Sandwich",
+  "photo": "Philly steak sandwich2_big.jpg"
+},
+{
+    "name": "Cheese Sandwitch",
+  "price": 5.76,
+  "category": "Sandwich",
+  "photo": "Cheese Sandwitch.jpg"
+},
+{
+  "name": "Chicken Alfredo Pizza",
+  "price": 5.99,
+  "category": "Pizza",
+  "photo": "Chicken Alfredo2_big.jpg"
+},
+{
+  "name": "Pepperoni Lovers Pizza",
+  "price": 4.74,
+  "category": "Pizza",
+  "photo": "Pepperoni lovers2_big.jpg"
+},
+{
+    "name": "Philly Steak Sandwich",
+  "price": 2.54,
+  "category": "Sandwich",
+  "photo": "Philly steak sandwich2_big.jpg"
+},
+{
+    "name": "Cheese Sandwitch",
+  "price": 5.76,
+  "category": "Sandwich",
+  "photo": "Cheese Sandwitch.jpg"
+},
+{
+    "name": "Corn Sandwitch",
+  "price": 2.54,
+  "category": "Sandwich",
+  "photo": "Corn Sandwitch.jpg"
+},
+{
+  "name": "Chicken Sandwich",
+  "price": 2.37,
+  "category": "Sandwich",
+  "photo": "Chicken sandwich2_big.jpg"
+},
+{
+  "name": "Hotdog Sandwich",
+  "price": 2.15,
+  "category": "Sandwich",
+  "photo": "hotdog sandwich2_big.jpg"
+},
+{
+  "name": "Veg Sandwitch",
+  "price": 4.99,
+  "category": "Sandwich",
+  "photo": "Veg Sandwitch.jpg"
+},
+{
+  "name": "Turkey Sandwich",
+  "price": 2.37,
+  "category": "Sandwich",
+  "photo": "turkey sandwich2_big.jpg"
+},
+{
+  "name": "Plain Bread",
+  "price": 3.27,
+  "category": "Sandwich",
+  "photo": "Plain Bread.jpg"
+},
+{
+  "name": "Caesar Salad",
+  "price": 3.01,
+  "category": "Salad",
+  "photo": "Caesar salad2_big.jpg"
+},
+{
+  "name": "Greek Salad",
+  "price": 2.37,
+  "category": "Salad",
+  "photo": "Greek salad2_big.jpg"
+},
+{
+  "name": "Arabic Salad",
+  "price": 1.94,
+  "category": "Salad",
+  "photo": "Arabic salad2_big.jpg"
+},
+{
+  "name": "Tuna Salad",
+  "price": 2.59,
+  "category": "Salad",
+  "photo": "Tuna salad2_big.jpg"
+},
+{
+  "name": "Caesar Salad",
+  "price": 3.01,
+  "category": "Salad",
+  "photo": "Caesar salad2_big.jpg"
+},
+{
+  "name": "Greek Salad",
+  "price": 2.37,
+  "category": "Salad",
+  "photo": "Greek salad2_big.jpg"
+},
+{
+  "name": "Arabic Salad",
+  "price": 1.94,
+  "category": "Salad",
+  "photo": "Arabic salad2_big.jpg"
+},
+{
+  "name": "Tuna Salad",
+  "price": 2.59,
+  "category": "Salad",
+  "photo": "Tuna salad2_big.jpg"
+},
+{
+  "name": "Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Pepsi-min_636021950800177962.jpg"
+},
+{
+  "name": "Diet Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Diet_Pepsi_big.jpg"
+},
+{
+  "name": "Arabic Salad",
+  "price": 1.94,
+  "category": "Salad",
+  "photo": "Arabic salad2_big.jpg"
+},
+{
+  "name": "Tuna Salad",
+  "price": 2.59,
+  "category": "Salad",
+  "photo": "Tuna salad2_big.jpg"
+},
+{
+  "name": "Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Pepsi-min_636021950800177962.jpg"
+},
+{
+  "name": "Diet Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Diet_Pepsi_big.jpg"
+},
+{
+  "name": "Mountain Dew",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "mtnDew_big.jpg"
+},
+{
+  "name": "Mineral Water (Small)",
+  "price": 0.26,
+  "category": "Beverages",
+  "photo": "Water-min_636021951390013962.jpg"
+},
+{
+  "name": "Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Pepsi-min_636021950800177962.jpg"
+},
+{
+  "name": "Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Pepsi-min_636021950800177962.jpg"
+},
+{
+  "name": "Diet Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Diet_Pepsi_big.jpg"
+},
+{
+  "name": "Mountain Dew",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "mtnDew_big.jpg"
+},
+{
+  "name": "Mineral Water (Small)",
+  "price": 0.26,
+  "category": "Beverages",
+  "photo": "Water-min_636021951390013962.jpg"
+},
+{
+  "name": "Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Pepsi-min_636021950800177962.jpg"
+},
+{
+  "name": "Diet Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Diet_Pepsi_big.jpg"
+},
+{
+  "name": "Mountain Dew",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "mtnDew_big.jpg"
+},
+{
+  "name": "Mineral Water (Small)",
+  "price": 0.26,
+  "category": "Beverages",
+  "photo": "Water-min_636021951390013962.jpg"
+},
+{
+  "name": "Diet Pepsi",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "Diet_Pepsi_big.jpg"
+},
+{
+  "name": "Mountain Dew",
+  "price": 0.52,
+  "category": "Beverages",
+  "photo": "mtnDew_big.jpg"
+},
+{
+  "name": "Mineral Water (Small)",
+  "price": 0.26,
+  "category": "Beverages",
+  "photo": "Water-min_636021951390013962.jpg"
+},
+{
+  "name": "Boneless Wings",
+  "price": 3.02,
+  "category": "Extra",
+  "photo": "bonless wing_big.jpg"
+},
+{
+  "name": "French Fries",
+  "price": 0.86,
+  "category": "Extra",
+  "photo": "french fries2_big.jpg"
+},
+{
+
+  "name": "Potato Wedges",
+  "price": 1.29,
+  "category": "Extra",
+  "photo": "wedges2_big.jpg"
+},
+{
+  "name": "Sauces",
+  "price": 0.43,
+  "category": "Extra",
+  "photo": "Dip_big.jpg"
+},
+{
+  "name": "Boneless Wings",
+  "price": 3.02,
+  "category": "Extra",
+  "photo": "bonless wing_big.jpg"
+},
+{
+  "name": "French Fries",
+  "price": 0.86,
+  "category": "Extra",
+  "photo": "french fries2_big.jpg"
+},
+{
+
+  "name": "Potato Wedges",
+  "price": 1.29,
+  "category": "Extra",
+  "photo": "wedges2_big.jpg"
+},
+{
+  "name": "Sauces",
+  "price": 0.43,
+  "category": "Extra",
+  "photo": "Dip_big.jpg"
+},
+{
+  "name": "Boneless Wings",
+  "price": 3.02,
+  "category": "Extra",
+  "photo": "bonless wing_big.jpg"
+},
+{
+  "name": "French Fries",
+  "price": 0.86,
+  "category": "Extra",
+  "photo": "french fries2_big.jpg"
+},
+{
+  "name": "Potato Wedges",
+  "price": 1.29,
+  "category": "Extra",
+  "photo": "wedges2_big.jpg"
+},
+{
+  "name": "Boneless Wings",
+  "price": 3.02,
+  "category": "Extra",
+  "photo": "bonless wing_big.jpg"
+},
+{
+  "name": "French Fries",
+  "price": 0.86,
+  "category": "Extra",
+  "photo": "french fries2_big.jpg"
+},
+{
+  "name": "Potato Wedges",
+  "price": 1.29,
+  "category": "Extra",
+  "photo": "wedges2_big.jpg"
+},
+{
+  "name": "Sauces",
+  "price": 0.43,
+  "category": "Extra",
+  "photo": "Dip_big.jpg"
+}]
