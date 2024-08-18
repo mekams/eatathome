@@ -27,6 +27,15 @@
 You can view it in eatathome-api folder > filename : index.js.
 I have given instruction there itself which you can follow and perform the action to get results.
 
+## `Users already created to login the page:`
+email : kamran@bcu.uk 
+<br/>
+password : kamran@123
+<br/>
+email : mustafa@bcu.uk
+<br/>
+password : mustafa@786
+
 ## `My GitHub Repo link`
 *  https://github.com/mekams/eatathome 
 
