@@ -1,4 +1,4 @@
-# <h1>Readme: Eat@thome</h1>
+# <h1>Readme: Eat@home</h1>
 
 ## `Please follow the details mentioned below to run the project build using React:`
 - Download and install node JS and Visual Studio code editor to your computer  (Link: https://nodejs.org/en  and https://code.visualstudio.com/download )
