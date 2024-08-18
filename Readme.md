@@ -27,9 +27,8 @@
 You can view it in eatathome-api folder > filename : index.js.
 I have given instruction there itself which you can follow and perform the action to get results.
 
-<!-- ## `Deployed to Vercel`
-
-## `My GitHub Repo link` -->
+## `My GitHub Repo link`
+*  https://github.com/mekams/eatathome 
 
 
 
